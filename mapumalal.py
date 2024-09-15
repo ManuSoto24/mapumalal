@@ -4,7 +4,7 @@ from fpdf import FPDF
 
 # Configurar la conexión con Google Sheets
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name("registro-de-terrenos-chml-04a9033cf905.json", scope)
+creds = ServiceAccountCredentials.from_json_keyfile_name("registro-de-terrenos-chml-a194d54a5c46.json", scope)
 client = gspread.authorize(creds)
 
 # Abrir la hoja de cálculo y seleccionar la hoja
