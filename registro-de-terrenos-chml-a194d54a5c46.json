@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "registro-de-terrenos-chml",
+  "private_key_id": "a194d54a5c468281df1abdd1e4a10e7191933afc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCR77pUFR2rwrVb\nG9+QOUtterzYDA5szj0tucvL6OGEvEUE+XVxJH4AL9aMvcmApdjVOoHGyc1hQNW1\nRiZ4d0qs7iB64/yTtHPwKb0nfVw5dsiT3qhJGxOi4pk+PiIVhNYweMNYsmeOIe36\nUTgwNwmmBu0Qyqf9D6VZFMDmYys3sDHmWGNp7Ez5OsHx0tGPRGq8ijaHkVP8pl2r\nRneCPN/YwvQ/A+gF66Z5EWLmuWcACdiY6cB/9iQmid5ZKc0U1Iy3k58fR2MjmVwW\nM8PvqmdvI0cCGzenhZo6KeceA33/76Bilu5g5jXJyEhe+6ldpEP/ENDq4AvOi2fB\neiv0qE3XAgMBAAECggEAAh/tjw7VpUFgTD4eJaaSkLqnkt+uEBXP8eFRdHEPY37Y\nOb0mDBUow85D1JMTeCIyA3y8FKMDMKYggRNPORQc4WKq1LngB13VDaCV8UQTz9Re\nZuS9f377l19ZitHzGMFxMDh5458z/xpDBuYgKCI3q5P7PJzZZZz7iSNSYahSTJe9\npxB04KrATurilh3KjkncDuHqgWKmPUd6RQqohqqFhKzqrLGuxSIj+ZJBDfXsxLEA\nUuKBn5OlG3QVBps7T7Mepj92D+AoAcNNkWra1hnJvqlfX6iYYi1zTgwhmOQLmDck\nNd/PVzIvcXgf61WWGPhqZrJbK/hOkrsmnnG7dOmimQKBgQDMn3cJ4eGnKa8znkwh\nCBxZgT+a5SIs7qv5kh03fH8MXxXl6HnQEURt8IGCVgu4wrTgQza4yBJA5krKAZR/\nHUFp9A0ZssUTS0RpcTQZO1ELcHdC3bZxmdwHlxukR1eApFkA2HIM1Qz0i6cKz2r+\nv2vD8kj5ysL68cLfe5tH3SyDLwKBgQC2lBNnF4u/+Bh0nTTbhgQ/AC8A4WXRcTwF\nbdQAwF+9EHnw4pWBfY2oq2ESAiD8o/j8HxoN0ngSiMUZbxRdgIOddKlFnOw7NTas\n9lurV6nvQjTiA/AkgphRLE6GLNiqP/raHRNtxkkkW/tlUxAJT8j3xQgWiO8WChC+\nk9nR5enV2QKBgQC6PGkblXrLqiTL1kdzyO4EiJ5bXDC+tHvRqirtVWJM4D4OAojb\n1ttxNHSrK6V/g7ccZhBoHbB/YRqwwL9m8jmXNYi22v6DkP2y+lVwoYwh3TquoRxs\nSJz6S43c9xGtA+f93QHwq/gemvxt2lqHgbGTpfDFaMYNn/y9asLppWPeAQKBgDcp\nFZOX8YjWE81nkYihPLcr/wdtEa3tYAzj2aFAfaxJRg4Y5sJwhFPpMzKVohGyGI9T\ndjOm2s/+sk202ZpGMX1ouZtmhZh9wz8OTzO9EIJQplmChxMAwbQEhtTSx8LoAYnU\nLwKDXaW2hIVgSwAFMtpolMD6LgGimNx7HtvjcnpBAoGAe0lD2hYe4utLtRx3Wcej\nq8WK6cW39SiNmDsv6VrONA8aNJQzPIRSa/Kp+davf2v7o3esY33gTgis/NdEIviN\n4hUcUmmi6J+LNycEha2XsLGFbPs/xRZJZd429YRWT1qCRnzl8Sqx4PcmWw4WQkuO\nNxf4Qqs5KUUDV4/XMChddt0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terrenoschml@registro-de-terrenos-chml.iam.gserviceaccount.com",
+  "client_id": "110866862289608758866",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terrenoschml%40registro-de-terrenos-chml.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
