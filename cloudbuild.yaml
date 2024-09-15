@@ -1,0 +1,7 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/[mapumalal]/[registro de terrenos CHML]', '.']
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/[mapumalal]/[registro de terrenos CHML]']
+images:
+- 'gcr.io/[mapumalal]/[registro de terrenos CHML]'
